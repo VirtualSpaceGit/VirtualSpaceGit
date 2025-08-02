@@ -4,7 +4,7 @@ I'm the Founder and lead programmer of VirtualSpace AppSec. Ever wrote code with
 
 No more bad filtered false positives drowning out real threats. Our supreme accuracy means you fix what matters, not chase ghosts. From buffer overflows to logic bombs, we catch the vulnerabilities that keep security teams up at night. Specially built and optimized for the programming languages C/++, Python, JS, and .NET applications – where one mistake can compromise everything.
 
-On this VirtuaSpaceXV GitHub, you will be able to find various helpful concepts and code:
+**On this VirtuaSpaceXV GitHub, you will be able to find various helpful concepts and code:**
 
 🔹 Markdown instructions for some of our trained AI models
 
