@@ -10,9 +10,9 @@ Your AI-powered security guardian – detecting the critical flaws that even GPT
 
 ### What Makes Us Different
 - **Attack-Minded AI** – Trained on thousands of real-world exploits to think like an attacker, not a code reviewer
-- **Supreme Accurate** – No more false positives drowning out real threats. Fix what matters, not chase ghosts and optimization
-- **All-around Coverage** – From buffer overflows to logic bombs, we catch the possible vulnerabilities that keep security teams up at night
-- **Specialized Optimization** – Built specifically for C/C++, Python, JavaScript, and .NET applications for most IDEs
+- **Supreme Accurate** – No more false positives drowning out real threats. Fix what matters, not chase ghosts
+- **All-around Coverage** – From buffer overflows to logic bombs, we catch the most crucial vulnerabilities
+- **Specialized Optimization** – Built specifically for C/C++, Python, JavaScript, and .NET applications
 
 ### Repository Contents
 - 🔹 Markdown instructions for trained AI models
