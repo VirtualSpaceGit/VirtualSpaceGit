@@ -6,7 +6,7 @@ I'm the Founder and lead programmer of VirtualSpace AppSec.
 Ever wrote code with hidden vulnerabilities that traditional scanners missed? One critical flaw can compromise everything.
 
 ## VirtualSpace AppSec
-Your AI-powered security guardian: detecting the critical flaws that even GPT-5 overlooks.
+Your AI-powered security guardian: detecting the critical flaws that even popular LLMs overlook.
 
 ### What Makes Us Different
 - **Attack-Minded AI** – Trained on thousands of real-world exploits to think like an attacker, not a code reviewer
